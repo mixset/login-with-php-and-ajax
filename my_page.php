@@ -1,9 +1,4 @@
 <?php
-/**
- @Author: Dominik Ryńko
- @Website: http://www.rynko.pl/
- @Version: 1.1
-*/
 
 session_start();
 
