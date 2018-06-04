@@ -4,7 +4,7 @@
    <meta charset="UTF-8">
    <title>Proste logowania za pomocą PHP, AJAX oraz JSON - dynamiczny formularz logowania </title>
    <meta name="author" content="Dominik Ryńko - http://rynko.pl">
-   <link rel="stylesheet" href="style.css">
+   <link rel="stylesheet" href="css/style.css">
    <meta name="description" content="Proste logowanie a pomocą PHP, AJAX oraz JSON. Sposób na dynamiczne logowanie bez konieczności przeładowywaia strony. Użyty został framework Twitter Boostrap.">
   </head>
  <body>
@@ -26,7 +26,7 @@
       </form>
   </section>
    
-   <script src="jquery.js"></script>
-   <script src="script.js"></script>
+   <script src="script/jquery.js"></script>
+   <script src="script/script.js"></script>
  </body>
 </html>
